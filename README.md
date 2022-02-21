@@ -6,8 +6,8 @@
 This CRUD App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
 ## Features
-This App also has a SignIn and Logout feature which uses Google OAuth 2.0 Client for logging users using their Gmail id.<br />
-This App allows a User to create a memory update it and delete it and also like other user's post.
+This App allows a User to create a memory update it and delete it and also like other user's post.<br />
+This App also has a SignIn and Logout feature which uses Google OAuth 2.0 Client for logging users using their Gmail id.
 
 ## Link
 https://events-prajjwal.netlify.app/
